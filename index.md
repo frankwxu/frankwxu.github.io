@@ -1,15 +1,15 @@
 Welcome to My Page
 ================
-*   [Teaching](#teaching)
-    *   [FSCS 630 Introduction to Cryptography](#philosophy)
-    *   [FSCS 727 Computer and Digital Forensics](#html)
-    *   [FSCS 728 Information Systems, Threats, Attacks and Defense Strategies](#autoescape)
-*   [Research](#research)
-    *   [Grant](#philosophy)
-    *   [Journal Publications](#html) 
-    *   [Confernece Publications](#html) 
+*   [Teaching]
+    *   [FSCS 630 Introduction to Cryptography]
+    *   [FSCS 727 Computer and Digital Forensics]
+    *   [FSCS 728 Information Systems, Threats, Attacks and Defense Strategies]
+*   [Research] (#research)
+    *   [Grant](#grant)
+    *   [Journal Publications](#journal) 
+    *   [Confernece Publications](#confernece) 
 *   [Service](#Service)
-    *   [committee](#philosophy)
+    *   [Committee](#committee)
 
 ### Research Interests
 Software Security, Digital Forensics, and Applying AI to Solve Security Problems
