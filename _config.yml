@@ -2,7 +2,7 @@ title: Frank Xu, Ph.D. Associate Professor
 description: MS in Forensic Sciences - Cyber Investigations program, University of Baltimore
 google_analytics: 
 show_downloads: false 
-theme: jekyll-theme-slate
+theme: jekyll-theme-midnight
 
 gems:
   - jekyll-mentions
