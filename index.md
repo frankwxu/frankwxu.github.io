@@ -2,8 +2,9 @@ Welcome to Dr. Xu's Page
 ================
 *   [Teaching](#teaching)
     *   [Interests](#interests)
-    *   [Courses](#course)
+    *   [Courses](#courses)
 *   [Research](#research)
+    *   [Interests](#researchinterests)
     *   [Grant](#grant)
     *   [Journal Publications](#journal) 
     *   [Confernece Publications](#confernece) 
@@ -18,12 +19,22 @@ Welcome to Dr. Xu's Page
 <h3 id="interests">Teaching Interests</h3>
 Digital Forensics, Cybersecurity,  Artificial Intelligence
 
-### Teaching
+<h3 id="courses">Courses</h3>
 - FSCS 630 Introduction to Cryptography
 - FSCS 727 Computer and Digital Forensics
 - FSCS 728 Information Systems, Threats, Attacks and Defense Strategies
 
-### Journal Publications
+* * *
+
+<h2 id="research">Research</h2>
+
+<h3 id="researchinterests">Research Interests</h3>
+Software Security, Digital Forensics, and Applying AI to Solve Security Problems
+
+<h3 id="grant">Grant</h3>
+
+
+<h3 id="journal">Journal Publications</h3>
 - W. Xu, D. Xu, A. Alatawi, O. E. Ariss, and Y. Liu, "Statistical unigram analysis for source code repository," International Journal of Semantic Computing, vol. 12, pp. 230-260, Jun. 2018, (The extension of the BigMM2017 conference paper).
 - D. Xu, W. Xu, M. Tu, N. Shen, W. Chu, and C. H. Chang, "Automated integration testing using logical contracts," IEEE Transactions on Reliability, vol. 65, no. 3, pp. 1205-1222, 2016.
 - W. Xu, T. Ding, D. Xu, and O. El Ariss, “Mining decision trees as test oracles for java bytecode,” International Journal of Computers and Their Applications, vol. 23, pp. 141-159, 2016.
