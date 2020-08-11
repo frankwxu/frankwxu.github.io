@@ -1,9 +1,8 @@
 Welcome to Dr. Xu's Page
 ================
 *   [Teaching](#teaching)
-    *   [FSCS 630 Introduction to Cryptography](#fscs630)
-    *   [FSCS 727 Computer and Digital Forensics](#fscs727)
-    *   [FSCS 728 Information Systems, Threats, Attacks and Defense Strategies](#fscs728)
+    *   [Teaching Interests](#interests)
+    *   [Courses](#course)
 *   [Research](#research)
     *   [Grant](#grant)
     *   [Journal Publications](#journal) 
@@ -14,7 +13,9 @@ Welcome to Dr. Xu's Page
 * * *
 
 
-<h2 id="teaching">Teaching Interests</h2>
+<h2 id="teaching">Teaching</h2>
+
+<h3 id="interests">Teaching Interests</h3>
 Software Security, Digital Forensics, and Applying AI to Solve Security Problems
 
 ### Teaching
