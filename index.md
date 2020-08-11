@@ -1,4 +1,5 @@
 ## Contact Information
+```
 Dr. Frank Associate Professor
 Director of the MS in Forensic Sciences: Cyber Investigations program
 College of Public Affairs
@@ -7,6 +8,7 @@ University of Baltimore
 Baltimore, MD 21201
 410-837-5302
 wxu at ubalt.edu
+```
 
 ## Welcome to my GitHub Pages
 This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
