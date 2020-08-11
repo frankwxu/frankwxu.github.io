@@ -1,4 +1,4 @@
-Welcome to My Page
+Welcome to Dr. Xu's Page
 ================
 *   [Teaching](#teaching)
     *   [FSCS 630 Introduction to Cryptography](#fscs630)
@@ -13,7 +13,8 @@ Welcome to My Page
 
 * * *
 
-### Research Interests
+
+<h2 id="teaching">Teaching Interests</h2>
 Software Security, Digital Forensics, and Applying AI to Solve Security Problems
 
 ### Teaching
