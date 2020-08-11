@@ -1,7 +1,7 @@
 Welcome to Dr. Xu's Page
 ================
 *   [Teaching](#teaching)
-    *   [Teaching Interests](#interests)
+    *   [Interests](#interests)
     *   [Courses](#course)
 *   [Research](#research)
     *   [Grant](#grant)
@@ -16,7 +16,7 @@ Welcome to Dr. Xu's Page
 <h2 id="teaching">Teaching</h2>
 
 <h3 id="interests">Teaching Interests</h3>
-Software Security, Digital Forensics, and Applying AI to Solve Security Problems
+Digital Forensics, Cybersecurity,  Artificial Intelligence
 
 ### Teaching
 - FSCS 630 Introduction to Cryptography
