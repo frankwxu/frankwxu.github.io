@@ -24,9 +24,9 @@ Software Security, Digital Forensics, and Applying AI to Solve Security Problems
 
 ### Conference Publications
 
-- A. Alatawi, W. Xu, and D. Xu, A bigram-based inference model for retrieving abbreviated phrases in source code," in The 24th International Conference on Evaluation and Assessment in Software Engineering (EASE2020), Trondheim, Norway, Apr. 2020, pp. 11-20, (acceptance rates 27/115=23.5%).
-- W. Xu, J. Yan, and H. Chi, \A forensic evidence acquisition model for data leakage attacks," in The 17th IEEE International Conference on Intelligence and Security Informatics (ISI). Shenzhen, China: IEEE, Jul. 2019, pp. 53-58.
-- R. Tiwang, T. Oladunni, and W. Xu, "A deep learning model for source code generation." Alabama, USA: IEEE SoutheastCon, 2019.
+- A. Alatawi, W. Xu, and D. Xu, "A bigram-based inference model for retrieving abbreviated phrases in source code," in The 24th International Conference on Evaluation and Assessment in Software Engineering (EASE2020), Trondheim, Norway, Apr. 2020, pp. 11-20, (acceptance rates 27/115=23.5%).
+- W. Xu, J. Yan, and H. Chi, "A forensic evidence acquisition model for data leakage attacks," in The 17th IEEE International Conference on Intelligence and Security Informatics (ISI). Shenzhen, China: IEEE, Jul. 2019, pp. 53-58.
+- R. Tiwang, T. Oladunni, and W. Xu, "A deep learning model for source code generation," Alabama, USA: IEEE SoutheastCon, 2019.
 - W. Xu and A. G. Fink, "Building executable secure design models for smart contracts with formal methods," in The 3rd Workshop on Trusted Smart Contracts In Association with Financial Cryptography 2019, St. Kitts, Feb. 2019.
 - A. Alatawi, W. Xu, and J. Yan, "The expansion of source code abbreviations using a language model," in 2018 IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC). Tokyo, Japan: IEEE, Jul. 2018, pp. 370-375.
 - R. Agada, J. Yan, and W. Xu, "An effective sensitive tutoring system for improving students engagement in cs," in Proceedings of the Future Technologies Conference. Springer, 2018, pp. 1151-1163.
