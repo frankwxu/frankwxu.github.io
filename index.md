@@ -11,6 +11,8 @@ Welcome to My Page
 *   [Service](#Service)
     *   [Committee](#committee)
 
+* * *
+
 ### Research Interests
 Software Security, Digital Forensics, and Applying AI to Solve Security Problems
 
