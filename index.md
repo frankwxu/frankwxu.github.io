@@ -6,7 +6,7 @@ Software Security, Digital Forensics, and Applying AI to Solve Security Problems
 - FSCS 727 Computer and Digital Forensics
 - FSCS 728 Information Systems, Threats, Attacks and Defense Strategies
 
-### Research Publications: Journal(1-12) Conference (13-52)
+### Journal Publications
 - W. Xu, D. Xu, A. Alatawi, O. E. Ariss, and Y. Liu, "Statistical unigram analysis for source code repository," International Journal of Semantic Computing, vol. 12, pp. 230-260, Jun. 2018, (The extension of the BigMM2017 conference paper).
 - D. Xu, W. Xu, M. Tu, N. Shen, W. Chu, and C. H. Chang, "Automated integration testing using logical contracts," IEEE Transactions on Reliability, vol. 65, no. 3, pp. 1205-1222, 2016.
 - W. Xu, T. Ding, D. Xu, and O. El Ariss, “Mining decision trees as test oracles for java bytecode,” International Journal of Computers and Their Applications, vol. 23, pp. 141-159, 2016.
@@ -21,6 +21,9 @@ Software Security, Digital Forensics, and Applying AI to Solve Security Problems
 - D. Xu, W. Xu, and W. E. Wong, "Testing aspect-oriented programs with uml design models," International Journal of Software Engineering and Knowledge Engineering, vol. 18, no. 03, pp. 413-437, 2008.
 - A. Alatawi, W. Xu, and D. Xu, "A bigram-based inference model for retrieving abbreviated phrases in source code," in The 24th International Conference on Evaluation and Assessment in Software Engineering (EASE2020), Trondheim, Norway, Apr. 2020, (acceptance rates 27/115=23.5%).
 - W. Xu, J. Yan, and H. Chi, "A forensic evidence acquisition model for data leakage attacks," in The 17th IEEE International Conference on Intelligence and Security Informatics (ISI), Shenzhen, China, Jul. 2019, pp. 53-58.
+
+### Conference Publications
+
 - R. Tiwang, T. Oladunni, and W. Xu, "A deep learning model for source code generation." Alabama, USA: IEEE SoutheastCon, 2019.
 - W. Xu and A. G. Fink, "Building executable secure design models for smart contracts with formal methods," in The 3rd Workshop on Trusted Smart Contracts In Association with Financial Cryptography 2019, St. Kitts, Feb. 2019.
 - A. Alatawi, W. Xu, and J. Yan, "The expansion of source code abbreviations using a language model," in 2018 IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC). Tokyo, Japan: IEEE, Jul. 2018, pp. 370-375.
