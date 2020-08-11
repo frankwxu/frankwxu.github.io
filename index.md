@@ -1,10 +1,10 @@
 Welcome to My Page
 ================
-*   [Teaching] (#teaching)
-    *   [FSCS 630 Introduction to Cryptography] (#fscs630)
-    *   [FSCS 727 Computer and Digital Forensics] (#fscs727)
-    *   [FSCS 728 Information Systems, Threats, Attacks and Defense Strategies] (#fscs728)
-*   [Research] (#research)
+*   [Teaching](#teaching)
+    *   [FSCS 630 Introduction to Cryptography](#fscs630)
+    *   [FSCS 727 Computer and Digital Forensics](#fscs727)
+    *   [FSCS 728 Information Systems, Threats, Attacks and Defense Strategies](#fscs728)
+*   [Research](#research)
     *   [Grant](#grant)
     *   [Journal Publications](#journal) 
     *   [Confernece Publications](#confernece) 
