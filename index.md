@@ -32,13 +32,13 @@ Digital Forensics, Cybersecurity,  Artificial Intelligence
 Software Security, Digital Forensics, and Applying AI to Solve Security Problems
 
 <h3 id="grant">Grant</h3>
-- Department of Homeland Security, Faculty Research Fellowship, Shared CTI for Detecting Post-Compromise of Advanced Persistent Threats, 2020, Awarded.  
-- Department of Energy, Faculty Research Fellowship, Building Secure Design Models for Smart Contracts with Formal Methods, 2018, Awarded.   
+- **Department of Homeland Security**, Faculty Research Fellowship, Shared CTI for Detecting Post-Compromise of Advanced Persistent Threats, 2020, Awarded.  
+- **Department of Energy**, Faculty Research Fellowship, Building Secure Design Models for Smart Contracts with Formal Methods, 2018, Awarded.   
 - Department of Defense, Faculty Research Fellowship, Detecting AI training algorithm vulnerabilities, 2018, Awarded.   	
-- NSF, Developing a Cloud-based Cryptographic Simulator for Enhancing Undergraduates’ Learning Experience in Cybersecurity Education, PI, $399,000,  2017-2021, Awarded.
+- National Science Foundation, Developing a Cloud-based Cryptographic Simulator for Enhancing Undergraduates’ Learning Experience in Cybersecurity Education, PI, $399,000,  2017-2021, Awarded.
 - U.S. Department of Justice, Developing a Cyber Investigation Case Simulator for Enhancing Students’ Learning Experience at the University of Baltimore and Towson University, PI, $450,000, 2019-2021, Funded.
 - U.S. Department of Justice, Developing a Cyber Investigation Case Simulator for Enhancing Students’ Learning Experience at the University of Baltimore and Towson University (Supplement Award), PI, $436,000, 2020-2023, Pending.
-- NSF	Visualized and Explainable AI to Improve Students’ Learning Experience in Digital Forensics Education, PI, $300K, Pending, 2020-2023, Pending.
+- National Science Foundation, Visualized and Explainable AI to Improve Students’ Learning Experience in Digital Forensics Education, PI, $300K, Pending, 2020-2023, Pending.
 
 
 
