@@ -115,8 +115,10 @@ Software Security, Digital Forensics, and Applying Artificial Intelligence to So
 <h3 id="hiring">I am hiring!</h3>
 I am looking for self-motivated students to work on research projects. These projects focus on applying Artificial Intelligence to address real-world challenges in the areas of digital forensics and cybersecurity. 
 
-#### Basic requirments:####
-* some programming skills in Java, C++, Python.
+#### Requirments: ####
+- basic programming skills in any one of languages, e.g., Java, C++, Python
+- basic concepts on cybersecurity and digital forensics 
+- At least GPA 3.0
 
 
 <h3 id="contact">Contact Information</h3>
