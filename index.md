@@ -112,6 +112,7 @@ Software Security, Digital Forensics, and Applying AI to Solve Security Problems
 - D. Xu, W. Xu, and K. E. Nygard, “A state-based approach to testing aspect-oriented programs.” in International Conference on Software Engineering and Knowledge Engineering, Taiwan, Jul. 2005, pp. 366–371.
 
 <h3 id="contact">Contact Information</h3>
+
 ```
 Dr. Frank Xu. Associate Professor
 Director of the MS in Forensic Sciences: Cyber Investigations program (Baltimore Campus)
