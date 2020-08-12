@@ -7,7 +7,7 @@ Welcome to Dr. Xu's Page
     *   [Interests](#researchinterests)
     *   [Grant](#grant)
     *   [Journal Publications](#journal) 
-    *   [Confernece Publications](#confernece) 
+    *   [Confernece Publications](#conference) 
 *   [Service](#Service)
     *   [Committee](#committee)
 
@@ -42,8 +42,8 @@ Software Security, Digital Forensics, and Applying AI to Solve Security Problems
 
 
 <h3 id="journal">Journal Publications</h3>
-- W. Xu, D. Xu, A. Alatawi, O. E. Ariss, and Y. Liu, "Statistical unigram analysis for source code repository," International Journal of Semantic Computing, vol. 12, pp. 230-260, Jun. 2018, (The extension of the BigMM2017 conference paper).
-- D. Xu, W. Xu, M. Tu, N. Shen, W. Chu, and C. H. Chang, "Automated integration testing using logical contracts," IEEE Transactions on Reliability, vol. 65, no. 3, pp. 1205-1222, 2016.
+-  W. Xu, D. Xu, A. Alatawi, O. E. Ariss, and Y. Liu, "Statistical unigram analysis for source code repository," International Journal of Semantic Computing, vol. 12, pp. 230-260, Jun. 2018, (The extension of the BigMM2017 conference paper).
+-  D. Xu, W. Xu, M. Tu, N. Shen, W. Chu, and C. H. Chang, "Automated integration testing using logical contracts," IEEE Transactions on Reliability, vol. 65, no. 3, pp. 1205-1222, 2016.
 - W. Xu, T. Ding, D. Xu, and O. El Ariss, “Mining decision trees as test oracles for java bytecode,” International Journal of Computers and Their Applications, vol. 23, pp. 141-159, 2016.
 - O. El Ariss, S. Bou Ghosn, and W. Xu, “Testing software using swarm intelligence: A bee colony optimization approach” (the extended version of the conference paper), EAI Endorsed Transactions on Collaborative Computing, vol. 2, 12 2016.
 - D. Xu, W. Xu, M. Kent, L. Thomas, and L. Wang, “An automated test generation technique for software quality assurance,” IEEE Transactions on Reliability, vol. 64, no. 1, pp. 247-268, 2015.
@@ -57,7 +57,7 @@ Software Security, Digital Forensics, and Applying AI to Solve Security Problems
 - A. Alatawi, W. Xu, and D. Xu, "A bigram-based inference model for retrieving abbreviated phrases in source code," in The 24th International Conference on Evaluation and Assessment in Software Engineering (EASE2020), Trondheim, Norway, Apr. 2020, (acceptance rates 27/115=23.5%).
 - W. Xu, J. Yan, and H. Chi, "A forensic evidence acquisition model for data leakage attacks," in The 17th IEEE International Conference on Intelligence and Security Informatics (ISI), Shenzhen, China, Jul. 2019, pp. 53-58.
 
-<h3 id="journal">Conference Publications</h3>
+<h3 id="conference">Conference Publications</h3>
 
 - A. Alatawi, W. Xu, and D. Xu, "A bigram-based inference model for retrieving abbreviated phrases in source code," in The 24th International Conference on Evaluation and Assessment in Software Engineering (EASE2020), Trondheim, Norway, Apr. 2020, pp. 11-20, (acceptance rates 27/115=23.5%).
 - W. Xu, J. Yan, and H. Chi, "A forensic evidence acquisition model for data leakage attacks," in The 17th IEEE International Conference on Intelligence and Security Informatics (ISI). Shenzhen, China: IEEE, Jul. 2019, pp. 53-58.
