@@ -13,6 +13,7 @@ Welcome to Dr. Xu's Page
     
 * * *    
 <h3>Useful Links and Opportunities</h3>
+
 - [M.S. in Forensic Science–Cyber Investigations Program](https://www.ubalt.edu/cpa/graduate-programs-and-certificates/degree-programs/forensic-science-cyber-investigations/index.cfm)
 - [Degree Requirements](https://www.ubalt.edu/cpa/graduate-programs-and-certificates/degree-programs/forensic-science-cyber-investigations/degree-requirements.cfm)
 - [Admission Requirements](https://www.ubalt.edu/cpa/graduate-programs-and-certificates/degree-programs/forensic-science-cyber-investigations/admission-requirements.cfm)
@@ -28,6 +29,7 @@ Welcome to Dr. Xu's Page
 Digital Forensics, Cybersecurity,  Artificial Intelligence
 
 <h3 id="courses">Courses</h3>
+
 - FSCS 630 Introduction to Cryptography
 - FSCS 727 Computer and Digital Forensics
 - FSCS 728 Information Systems, Threats, Attacks and Defense Strategies
