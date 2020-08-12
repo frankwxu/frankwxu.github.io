@@ -11,9 +11,9 @@ Welcome to Dr. Xu's Page
 *   [Service](#Service)
     *   [Committee](#committee)
 
- Useful Links| A |B | C
------------- | -------------|------------|--------------
-[M.S. in Forensic Science–Cyber Investigations Program](https://www.ubalt.edu/cpa/graduate-programs-and-certificates/degree-programs/forensic-science-cyber-investigations/index.cfm) | Content from cell 2 | Content in the first column | Content in the second column
+ Useful Links| A 
+------------ | -------------
+[M.S. in Forensic Science–Cyber Investigations Program](https://www.ubalt.edu/cpa/graduate-programs-and-certificates/degree-programs/forensic-science-cyber-investigations/index.cfm) 
 
 * * *
 
