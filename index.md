@@ -41,7 +41,7 @@ Software Security, Digital Forensics, and Applying Artificial Intelligence to So
 
 <h3 id="grant">Grant</h3>
 
-- **Department of Homeland Security**, Faculty Research Fellowship, Shared CTI for Detecting Post-Compromise of Advanced Persistent Threats, 2020, Awarded.  
+- **Department of Homeland Security**, Faculty Research Fellowship, Shared CTI for Detecting Post-Compromise of Advanced Persistent Threats, 2020, Awarded. 
 - **Department of Energy**, Faculty Research Fellowship, Building Secure Design Models for Smart Contracts with Formal Methods, 2018, Awarded.   
 - **Department of Defense**, Faculty Research Fellowship, Detecting AI training algorithm vulnerabilities, 2018, Awarded.   	
 - **National Science Foundation**, Developing a Cloud-based Cryptographic Simulator for Enhancing Undergraduates’ Learning Experience in Cybersecurity Education, PI, $399,000,  2017-2021, Awarded.
@@ -110,9 +110,10 @@ Software Security, Digital Forensics, and Applying Artificial Intelligence to So
 - W. Xu and D. Xu, “A model-based approach to test generation for aspect-oriented programs,” in AOSD 2005 Workshop on Testing Aspect-Oriented Programs, Chicago, USA, 2005.
 - D. Xu, W. Xu, and K. E. Nygard, “A state-based approach to testing aspect-oriented programs.” in International Conference on Software Engineering and Knowledge Engineering, Taiwan, Jul. 2005, pp. 366–371.
 
-
 * * *    
-<h2 id="committee">Committee</h2>
+<h2 id="service">Service</h2>
+<h3 id="committee">Committee</h3>
+
 - Program Co-Chair, SEPT Symposium for the IEEE Computer Society Signature Conference on Computers, Software and Applications, 2020
 - Session Chair, the 17th IEEE International Conference on Intelligence and Security Informatics,  2019
 - Organizing Committee Member, the 9th International Symposium on Cybersecurity, Las Vegas, Nevada, USA, 2018
