@@ -113,7 +113,7 @@ Software Security, Digital Forensics, and Applying Artificial Intelligence to So
 
 * * *    
 <h2 id="hiring">I am hiring!</h2>
-I am looking for self-motivated students to work on research projects. These projects focus on applying Artificial Intelligence to address real-world challenges in the areas of digital forensics and cybersecurity. 
+I am looking for self-motivated students to work on research projects. These projects focus on applying Artificial Intelligence to address real-world challenges in the areas of digital forensics and cybersecurity. Please email me your resume at wxu at ubalt dot edu.
 
 ### Requirments: ###
 1. Basic programming skills in any one of languages, e.g., Java, C++, Python
