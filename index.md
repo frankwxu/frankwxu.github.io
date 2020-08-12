@@ -34,14 +34,11 @@ Software Security, Digital Forensics, and Applying AI to Solve Security Problems
 <h3 id="grant">Grant</h3>
 - **Department of Homeland Security**, Faculty Research Fellowship, Shared CTI for Detecting Post-Compromise of Advanced Persistent Threats, 2020, Awarded.  
 - **Department of Energy**, Faculty Research Fellowship, Building Secure Design Models for Smart Contracts with Formal Methods, 2018, Awarded.   
-- Department of Defense, Faculty Research Fellowship, Detecting AI training algorithm vulnerabilities, 2018, Awarded.   	
-- National Science Foundation, Developing a Cloud-based Cryptographic Simulator for Enhancing Undergraduates’ Learning Experience in Cybersecurity Education, PI, $399,000,  2017-2021, Awarded.
-- U.S. Department of Justice, Developing a Cyber Investigation Case Simulator for Enhancing Students’ Learning Experience at the University of Baltimore and Towson University, PI, $450,000, 2019-2021, Funded.
-- U.S. Department of Justice, Developing a Cyber Investigation Case Simulator for Enhancing Students’ Learning Experience at the University of Baltimore and Towson University (Supplement Award), PI, $436,000, 2020-2023, Pending.
-- National Science Foundation, Visualized and Explainable AI to Improve Students’ Learning Experience in Digital Forensics Education, PI, $300K, Pending, 2020-2023, Pending.
-
-
-
+- **Department of Defense**, Faculty Research Fellowship, Detecting AI training algorithm vulnerabilities, 2018, Awarded.   	
+- **National Science Foundation**, Developing a Cloud-based Cryptographic Simulator for Enhancing Undergraduates’ Learning Experience in Cybersecurity Education, PI, $399,000,  2017-2021, Awarded.
+- **U.S. Department of Justice**, Developing a Cyber Investigation Case Simulator for Enhancing Students’ Learning Experience at the University of Baltimore and Towson University, PI, $450,000, 2019-2021, Funded.
+- **U.S. Department of Justice**, Developing a Cyber Investigation Case Simulator for Enhancing Students’ Learning Experience at the University of Baltimore and Towson University (Supplement Award), PI, $436,000, 2020-2023, Pending.
+- **National Science Foundation**, Visualized and Explainable AI to Improve Students’ Learning Experience in Digital Forensics Education, PI, $300K, Pending, 2020-2023, Pending.
 
 
 <h3 id="journal">Journal Publications</h3>
@@ -60,7 +57,7 @@ Software Security, Digital Forensics, and Applying AI to Solve Security Problems
 - A. Alatawi, W. Xu, and D. Xu, "A bigram-based inference model for retrieving abbreviated phrases in source code," in The 24th International Conference on Evaluation and Assessment in Software Engineering (EASE2020), Trondheim, Norway, Apr. 2020, (acceptance rates 27/115=23.5%).
 - W. Xu, J. Yan, and H. Chi, "A forensic evidence acquisition model for data leakage attacks," in The 17th IEEE International Conference on Intelligence and Security Informatics (ISI), Shenzhen, China, Jul. 2019, pp. 53-58.
 
-### Conference Publications
+<h3 id="journal">Conference Publications</h3>
 
 - A. Alatawi, W. Xu, and D. Xu, "A bigram-based inference model for retrieving abbreviated phrases in source code," in The 24th International Conference on Evaluation and Assessment in Software Engineering (EASE2020), Trondheim, Norway, Apr. 2020, pp. 11-20, (acceptance rates 27/115=23.5%).
 - W. Xu, J. Yan, and H. Chi, "A forensic evidence acquisition model for data leakage attacks," in The 17th IEEE International Conference on Intelligence and Security Informatics (ISI). Shenzhen, China: IEEE, Jul. 2019, pp. 53-58.
