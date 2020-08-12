@@ -13,7 +13,6 @@ Welcome to Dr. Xu's Page
     
 * * *    
 <h3>Useful Links and Opportunities</h3>
-
 - [M.S. in Forensic Science–Cyber Investigations Program](https://www.ubalt.edu/cpa/graduate-programs-and-certificates/degree-programs/forensic-science-cyber-investigations/index.cfm)
 - [Degree Requirements](https://www.ubalt.edu/cpa/graduate-programs-and-certificates/degree-programs/forensic-science-cyber-investigations/degree-requirements.cfm)
 - [Admission Requirements](https://www.ubalt.edu/cpa/graduate-programs-and-certificates/degree-programs/forensic-science-cyber-investigations/admission-requirements.cfm)
@@ -110,6 +109,23 @@ Software Security, Digital Forensics, and Applying Artificial Intelligence to So
 - D. Xu and W. Xu, “State-based incremental testing of aspect-oriented programs,” in Proceedings of the 5th international conference on Aspect-oriented software development. Bonn, Germany: ACM, Jun. 2006, pp. 180–189, (Acceptance rates: 23/96 = 24%).
 - W. Xu and D. Xu, “A model-based approach to test generation for aspect-oriented programs,” in AOSD 2005 Workshop on Testing Aspect-Oriented Programs, Chicago, USA, 2005.
 - D. Xu, W. Xu, and K. E. Nygard, “A state-based approach to testing aspect-oriented programs.” in International Conference on Software Engineering and Knowledge Engineering, Taiwan, Jul. 2005, pp. 366–371.
+
+
+* * *    
+<h2 id="committee">Committee</h2>
+- Program Co-Chair, SEPT Symposium for the IEEE Computer Society Signature Conference on Computers, Software and Applications, 2020
+- Session Chair, the 17th IEEE International Conference on Intelligence and Security Informatics,  2019
+- Organizing Committee Member, the 9th International Symposium on Cybersecurity, Las Vegas, Nevada, USA, 2018
+- PC member, the International Conference on Software Engineering and Knowledge Engineering, 2013-2020
+- PC member, the Symposium On Applied Computing (Software Engineering Track), 2013-2020
+- Reviewer, the Journal of Education and Information Technologies,2016-2020
+- Reviewer, the International Journal of Software Engineering and Knowledge Engineering, 2015-
+- Member Chair, the IEEE Executive Committee, 2011 - 2014
+- PC member, the 22nd IEEE WETICE International Conference(Validation of Safety Critical Collaboration Systems Track), 2013
+- Editorial Board Member, the ACTA Press (Software Engineering Track), 2012
+- Session Chair,  the International Conference on Software Security and Reliability, 2012
+- Committee Member,  the International Association of Science and Technology(Software Engineering Track), 2009 - 2012
+- Session Chair, the 13th International Conference on Enterprise Information Systems, 2011
 
 * * *    
 <h2 id="hiring">I am hiring!</h2>
