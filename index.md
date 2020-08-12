@@ -112,10 +112,10 @@ Software Security, Digital Forensics, and Applying Artificial Intelligence to So
 - D. Xu, W. Xu, and K. E. Nygard, “A state-based approach to testing aspect-oriented programs.” in International Conference on Software Engineering and Knowledge Engineering, Taiwan, Jul. 2005, pp. 366–371.
 
 * * *    
-<h3 id="hiring">I am hiring!</h3>
+<h2 id="hiring">I am hiring!</h2>
 I am looking for self-motivated students to work on research projects. These projects focus on applying Artificial Intelligence to address real-world challenges in the areas of digital forensics and cybersecurity. 
 
-#### Requirments: ####
+### Requirments: ###
 - Basic programming skills in any one of languages, e.g., Java, C++, Python
 - Basic concepts on cybersecurity and digital forensics 
 - At least GPA 3.0
@@ -124,7 +124,7 @@ I am looking for self-motivated students to work on research projects. These pro
 
 * * *    
 
-<h3 id="contact">Contact Information</h3>
+<h2 id="contact">Contact Information</h2>
 
 ```
 Dr. Frank Xu. Associate Professor
