@@ -32,6 +32,7 @@ Digital Forensics, Cybersecurity,  Artificial Intelligence
 Software Security, Digital Forensics, and Applying AI to Solve Security Problems
 
 <h3 id="grant">Grant</h3>
+
 - **Department of Homeland Security**, Faculty Research Fellowship, Shared CTI for Detecting Post-Compromise of Advanced Persistent Threats, 2020, Awarded.  
 - **Department of Energy**, Faculty Research Fellowship, Building Secure Design Models for Smart Contracts with Formal Methods, 2018, Awarded.   
 - **Department of Defense**, Faculty Research Fellowship, Detecting AI training algorithm vulnerabilities, 2018, Awarded.   	
@@ -42,6 +43,7 @@ Software Security, Digital Forensics, and Applying AI to Solve Security Problems
 
 
 <h3 id="journal">Journal Publications</h3>
+
 -  W. Xu, D. Xu, A. Alatawi, O. E. Ariss, and Y. Liu, "Statistical unigram analysis for source code repository," International Journal of Semantic Computing, vol. 12, pp. 230-260, Jun. 2018, (The extension of the BigMM2017 conference paper).
 -  D. Xu, W. Xu, M. Tu, N. Shen, W. Chu, and C. H. Chang, "Automated integration testing using logical contracts," IEEE Transactions on Reliability, vol. 65, no. 3, pp. 1205-1222, 2016.
 - W. Xu, T. Ding, D. Xu, and O. El Ariss, “Mining decision trees as test oracles for java bytecode,” International Journal of Computers and Their Applications, vol. 23, pp. 141-159, 2016.
