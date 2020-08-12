@@ -111,7 +111,7 @@ Software Security, Digital Forensics, and Applying Artificial Intelligence to So
 - W. Xu and D. Xu, “A model-based approach to test generation for aspect-oriented programs,” in AOSD 2005 Workshop on Testing Aspect-Oriented Programs, Chicago, USA, 2005.
 - D. Xu, W. Xu, and K. E. Nygard, “A state-based approach to testing aspect-oriented programs.” in International Conference on Software Engineering and Knowledge Engineering, Taiwan, Jul. 2005, pp. 366–371.
 
-
+* * *    
 <h3 id="hiring">I am hiring!</h3>
 I am looking for self-motivated students to work on research projects. These projects focus on applying Artificial Intelligence to address real-world challenges in the areas of digital forensics and cybersecurity. 
 
@@ -122,6 +122,7 @@ I am looking for self-motivated students to work on research projects. These pro
 - Self-motivated
 - Task-driven and can complete tasks in a timely manner
 
+* * *    
 
 <h3 id="contact">Contact Information</h3>
 
