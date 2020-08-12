@@ -13,7 +13,7 @@ Welcome to Dr. Xu's Page
 
  Useful Links| A 
 ------------ | -------------
-[M.S. in Forensic Science–Cyber Investigations Program](https://www.ubalt.edu/cpa/graduate-programs-and-certificates/degree-programs/forensic-science-cyber-investigations/index.cfm) 
+[M.S. in Forensic Science–Cyber Investigations Program](https://www.ubalt.edu/cpa/graduate-programs-and-certificates/degree-programs/forensic-science-cyber-investigations/index.cfm) | B
 
 * * *
 
