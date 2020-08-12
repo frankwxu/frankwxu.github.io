@@ -38,7 +38,7 @@ Digital Forensics, Cybersecurity,  Artificial Intelligence
 <h2 id="research">Research</h2>
 
 <h3 id="researchinterests">Research Interests</h3>
-Software Security, Digital Forensics, and Applying AI to Solve Security Problems
+Software Security, Digital Forensics, and Applying Artificial Intelligence to Solve Security Problems
 
 <h3 id="grant">Grant</h3>
 
@@ -110,6 +110,14 @@ Software Security, Digital Forensics, and Applying AI to Solve Security Problems
 - D. Xu and W. Xu, “State-based incremental testing of aspect-oriented programs,” in Proceedings of the 5th international conference on Aspect-oriented software development. Bonn, Germany: ACM, Jun. 2006, pp. 180–189, (Acceptance rates: 23/96 = 24%).
 - W. Xu and D. Xu, “A model-based approach to test generation for aspect-oriented programs,” in AOSD 2005 Workshop on Testing Aspect-Oriented Programs, Chicago, USA, 2005.
 - D. Xu, W. Xu, and K. E. Nygard, “A state-based approach to testing aspect-oriented programs.” in International Conference on Software Engineering and Knowledge Engineering, Taiwan, Jul. 2005, pp. 366–371.
+
+
+<h3 id="hirng">I am hiring!</h3>
+I am looking for self-motivated students to work on research projects. These projects focus on applying Artificial Intelligence to address real-world challenges in the areas of digital forensics and cybersecurity. 
+
+####Basic requirments:####
+* some programming skills in Java, C++, Python.
+
 
 <h3 id="contact">Contact Information</h3>
 
