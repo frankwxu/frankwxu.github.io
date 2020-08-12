@@ -13,9 +13,12 @@ Welcome to Dr. Xu's Page
     
 * * *    
 <h3>Useful Link</h3>
+
 - [M.S. in Forensic Science–Cyber Investigations Program](https://www.ubalt.edu/cpa/graduate-programs-and-certificates/degree-programs/forensic-science-cyber-investigations/index.cfm)
 - [Degree Requirements](https://www.ubalt.edu/cpa/graduate-programs-and-certificates/degree-programs/forensic-science-cyber-investigations/degree-requirements.cfm)
 - [Admission Requirements](https://www.ubalt.edu/cpa/graduate-programs-and-certificates/degree-programs/forensic-science-cyber-investigations/admission-requirements.cfm)
+- [I am Hiring!](#hiring)
+- [Contact Information](#contact)
 
 * * *
 
@@ -108,7 +111,7 @@ Software Security, Digital Forensics, and Applying AI to Solve Security Problems
 - W. Xu and D. Xu, “A model-based approach to test generation for aspect-oriented programs,” in AOSD 2005 Workshop on Testing Aspect-Oriented Programs, Chicago, USA, 2005.
 - D. Xu, W. Xu, and K. E. Nygard, “A state-based approach to testing aspect-oriented programs.” in International Conference on Software Engineering and Knowledge Engineering, Taiwan, Jul. 2005, pp. 366–371.
 
-### Contact Information
+<h3 id="contact">Contact Information</h3>
 ```
 Dr. Frank Xu. Associate Professor
 Director of the MS in Forensic Sciences: Cyber Investigations program (Baltimore Campus)
